@@ -2,6 +2,10 @@
 
 ### Organização, Tratamento e Visualização de Dados de Leitos
 
+## 📊 Dashboard Final
+
+![Dashboard Hospitalar](./projeto-hospital/Dashboard_hospital.png)
+
 ---
 
 ## 📌 Visão Geral
