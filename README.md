@@ -4,7 +4,7 @@
 
 ## 📊 Dashboard Final
 
-![Dashboard Hospitalar](./projeto-hospital/Dashboard_hospital.png)
+![Dashboard Hospitalar](./Dashboard_hospital.png)
 
 ---
 
